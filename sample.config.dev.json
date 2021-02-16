@@ -1,0 +1,8 @@
+{
+    "APP_DB_HOST": "127.0.0.1",
+    "APP_DB_MAX_IDLE_CONNECTIONS": "10",
+    "APP_DB_MAX_OPEN_CONNECTIONS": "10",
+    "APP_DB_PASS": "",
+    "APP_DB_PORT": "3306",
+    "APP_DB_USER": ""
+}
